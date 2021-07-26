@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Iso639UnitTest\Part1;
+namespace Iso639Test\Part1;
 
 use Iso639\Part1\Alpha2Code;
 use PHPUnit\Framework\TestCase;
