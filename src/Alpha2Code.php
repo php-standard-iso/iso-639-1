@@ -134,7 +134,7 @@ interface Alpha2Code
     const OROMO             = 'om';
     const ORIYA             = 'or';
     const OSSETIAN          = 'os';
-    const PUNJABI           = 'pa';
+    const PANJABI           = 'pa';
     const PALI              = 'pi';
     const PERSIAN           = 'fa';
     const POLISH            = 'pl';
